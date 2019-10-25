@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c25a680-d3a8-487a-8ff1-2ccf8af479a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="siva" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Rest" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\JetBrains\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SgwB4ZIYjFaU0iD87PcwLRC4ya" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.DeleteReq.testDel">
+    <configuration name="DeleteReq.testDel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeleteReq" />
+      <option name="METHOD_NAME" value="testDel" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetREq.getWeatherReport" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GetREq" />
+      <option name="METHOD_NAME" value="getWeatherReport" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostReq" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PostReq" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutReq.putReqDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssured" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PutReq" />
+      <option name="METHOD_NAME" value="putReqDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DeleteReq.testDel" />
+        <item itemvalue="TestNG.PutReq.putReqDemo" />
+        <item itemvalue="TestNG.PostReq" />
+        <item itemvalue="TestNG.GetREq.getWeatherReport" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c25a680-d3a8-487a-8ff1-2ccf8af479a2" name="Default Changelist" comment="" />
+      <created>1571998407934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571998407934</updated>
+    </task>
+    <task id="LOCAL-00001" summary="RestAssured">
+      <created>1572005108456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572005108456</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RestAssured">
+      <created>1572005674779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572005674779</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#9;@FindBy(css=&quot;&quot;)&#10;&#9;private WebElement webElement;&#10;RestAssured">
+      <created>1572007596514</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572007596514</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RestAssured" />
+    <MESSAGE value="&#9;@FindBy(css=&quot;&quot;)&#10;&#9;private WebElement webElement;&#10;RestAssured" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#9;@FindBy(css=&quot;&quot;)&#10;&#9;private WebElement webElement;&#10;RestAssured" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Notifications" timestamp="1572007920610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1572007920610" />
+    <state x="485" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1572005066139">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="0" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1366.728@0.0.1366.728" timestamp="1572005066139" />
+    <state x="129" y="34" key="DiffContextDialog" timestamp="1572008248423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="34" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1572008248423" />
+    <state width="1315" height="167" key="GridCell.Tab.0.bottom" timestamp="1572008729296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1315" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1572008729296" />
+    <state width="1315" height="167" key="GridCell.Tab.0.center" timestamp="1572008729296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1315" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1572008729296" />
+    <state width="1315" height="167" key="GridCell.Tab.0.left" timestamp="1572008729295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1315" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1572008729295" />
+    <state width="1315" height="167" key="GridCell.Tab.0.right" timestamp="1572008729296">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1315" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1572008729296" />
+    <state x="163" y="42" key="IDE.errors.dialog" timestamp="1572006332175">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="42" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1572006332175" />
+    <state x="396" y="16" key="RollbackChangesDialog" timestamp="1572007540708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="396" y="16" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1572007540708" />
+    <state x="302" y="0" key="VCS.ChangeListViewerDialog" timestamp="1572007337954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="302" y="0" key="VCS.ChangeListViewerDialog/0.0.1366.728@0.0.1366.728" timestamp="1572007337954" />
+    <state x="513" y="220" key="VCS.EditChangelistDialog" timestamp="1572005633831">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="220" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1572005633831" />
+    <state x="175" y="13" key="Vcs.Push.Dialog.v2" timestamp="1572008691644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="13" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1572008691644" />
+    <state x="217" y="141" key="com.intellij.ide.util.TipDialog" timestamp="1572008875618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="217" y="141" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1572008875618" />
+    <state x="328" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate" timestamp="1572008377588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="328" y="234" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate/0.0.1366.728@0.0.1366.728" timestamp="1572008377588" />
+    <state x="364" y="106" key="git4idea.merge.GitMergeDialog" timestamp="1572007763513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="364" y="106" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1572007763513" />
+    <state x="441" y="233" key="git4idea.ui.GitResetDialog" timestamp="1572007374017">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="233" key="git4idea.ui.GitResetDialog/0.0.1366.728@0.0.1366.728" timestamp="1572007374017" />
+    <state x="441" y="172" key="git4idea.ui.GitTagDialog" timestamp="1572008176772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="441" y="172" key="git4idea.ui.GitTagDialog/0.0.1366.728@0.0.1366.728" timestamp="1572008176772" />
+  </component>
+</project>
